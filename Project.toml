@@ -4,8 +4,8 @@ authors = ["Marcin Koculak <koculak.marcin@gmail.com>"]
 version = "0.1.0-DEV"
 
 [deps]
-EEGIO = "0b63a203-985a-4b95-9578-b702c99cc299"
-Telepathy = "0d7f22b2-4679-4055-8421-94b93cbff039"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 
 [compat]
 julia = "1.8"
